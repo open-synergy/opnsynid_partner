@@ -25,16 +25,10 @@
     'author': 'OpenSynergy Indonesia',
     'website': 'web.opensynergy-indonesia.com',
     'description': """
-
     """,
     'depends': ['base'],
-    'demo': [],
-    'data': [   
-               'views/res_partner.xml',
-               ],
+    'data': ['views/res_partner.xml'],
     'installable': True,
-    'images': [],
 }
-
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
 
